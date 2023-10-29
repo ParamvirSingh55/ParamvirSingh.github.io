@@ -1,2 +1,2 @@
-# zomi.finance
-i developed this website using html and css
+# Romi.finance
+ Website using html and css
